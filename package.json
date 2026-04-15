@@ -1,5 +1,5 @@
 {
-  "name": "poc_webdriver",
+  "name": "poc_webdriverio",
   "version": "1.0.0",
   "description": "POC para avaliação do WebdriverIO",
   "main": "index.js",
